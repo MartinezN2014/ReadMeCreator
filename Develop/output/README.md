@@ -49,4 +49,4 @@ Run test however you feel like it?
 
 GitHub: [MartinezN2014](https://github.com/MartinezN2014)
 
-[Tutorial](<../image/Untitled_ Aug 3, 2023 10_37 PM.webm>)
+My Youtube [Tutorial](https://www.youtube.com/watch?v=Hln28p3e4KQ)
