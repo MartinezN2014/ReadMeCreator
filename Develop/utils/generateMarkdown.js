@@ -44,8 +44,8 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## Questions
-  Github MartinezN2014 
-
+  GitHub: [${data.github}](https://github.com/${data.github})
+  
 `;
 }
 

@@ -1,10 +1,10 @@
-# README Generator
+# Nelson's Readme Generator
 
 ![license](https://img.shields.io/badge/license-MIT-blue)
 
 ## Descryption
 
-This generates a read me file dynamically
+This is used to dynamically generate a readme.md file.
 
 ## Table of Contents
 
@@ -19,15 +19,15 @@ This generates a read me file dynamically
 
 ## Installation
 
-clone my repo
+Clone it from my Repo
 
 ## Usage
 
-To use it just open the terminal and enter "node index.js" and answer the questions that appear.
+To use it all you need to do is type "node index.js" in the terminal and answer the list of questions.
 
 ## Credits
 
-clear
+https://shields.io/
 
 ## License
 
@@ -35,16 +35,18 @@ This application uses ![license](https://img.shields.io/badge/license-MIT-blue)
 
 ## Features
 
-Inquirer, FS
+It uses Inquirer, Node.js, and FS
 
 ## How to Contribute
 
-Please do not.
+Contact me.
 
 ## Test
 
-Test the application however you like.
+Run test however you feel like it?
 
 ## Questions
 
-Github ![MartinezN2014](https://github.com/MartinezN2014/ReadMeCreator)
+GitHub: [MartinezN2014](https://github.com/MartinezN2014)
+
+[Tutorial](<../image/Untitled_ Aug 3, 2023 10_37 PM.webm>)

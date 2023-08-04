@@ -51,6 +51,11 @@ const questions = [
     name: "test",
     message: "How do you run the test for the application?",
   },
+  {
+    type: "input",
+    name: "github",
+    message: "What is your Github?",
+  },
 ];
 
 // TODO: Create a function to initialize app
